@@ -17,7 +17,7 @@ Este repositorio contiene dos archivos con una serie de ejercicios realizados en
 5. Cálculo del porcentaje de datos nulos por columna
 
 ---
-**AUTORA**: Ing. Fabiana Mansilla
+**AUTORA**: Daniela Perea
 
 **CURSO**: Data Science | Ingenias+
 
