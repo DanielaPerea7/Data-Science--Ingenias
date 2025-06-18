@@ -106,6 +106,6 @@ Durante esta entrega se aplicaron distintos algoritmos de aprendizaje supervisad
 - La predicción de la producción futura sigue una **tendencia creciente** pero más progresiva. Esta predicción se mantiene dentro de un rango relativamente estable, lo cual sugiere una fase de consolidación y crecimiento moderado, aunque dependerá de condiciones externas y políticas energéticas futuras.
 
 ---
-
+**Fecha de Entrega:** 18/06/2025
 
 
