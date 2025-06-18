@@ -11,7 +11,7 @@ Desarrollar y evaluar distintos modelos de aprendizaje supervisado para estimar 
 - Implementación de modelos de **regresión**
 - Evaluación de desempeño mediante métricas específicas
 - Ajuste y optimización de **hiperparámetros**
-- Comparación de resultados entre versiones y datasets alternativos
+- Comparación de resultados 
 - Predicción futura de la producción de gas
 
 ---
