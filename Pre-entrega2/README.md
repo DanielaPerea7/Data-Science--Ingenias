@@ -1,4 +1,4 @@
-# Pre-Entrega 2 - Proyecto Data Science
+# 📊 Pre-Entrega 2 - Exploración y Transformación de datos sobre la Producción de Gas Natural en Argentina
 
 En esta etapa del proyecto comenzamos a trabajar directamente con los datasets seleccionados, que abordan la producción de gas natural en Argentina. El objetivo fue preparar y explorar los datos para comprender su estructura, calidad y potencial analítico.
 
