@@ -79,8 +79,9 @@ Durante esta entrega se aplicaron distintos algoritmos de aprendizaje supervisad
 ├── 📄 README.md ← Este archivo  
 ├── 📓 Pre-Entrega3_Equipo5.ipynb  
 ├── 📁 Dataset/ ← Subcarpeta con datasets procesados  
-     ├── Dataset1_editado.csv
-     ├── Dataset2_editado.csv
+│   ├── Dataset1_editado.csv  
+│   └── Dataset2_editado.csv  
+
 
 ---
 
