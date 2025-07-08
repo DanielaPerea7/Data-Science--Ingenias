@@ -67,13 +67,13 @@ Durante esta entrega se aplicaron distintos algoritmos de aprendizaje no supervi
 
 ### 🗂️ Estructura de la carpeta
 
-📁 Pre-entrega3/  
+📁 Pre-entrega4/  
 │  
 ├── 📄 README.md ← Este archivo  
-├── 📓 Pre-Entrega3_Equipo5.ipynb  
+├── 📓 Pre-Entrega4_Equipo5.ipynb  
 ├── 📁 Dataset/ ← Subcarpeta con datasets procesados  
-│   ├── Dataset1_editado.csv  
-│   └── Dataset2_editado.csv  
+│   ├── Dataset1.csv  
+│   └── Dataset2.csv  
 
 
 ---
