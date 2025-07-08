@@ -69,11 +69,11 @@ Durante esta entrega se aplicaron distintos algoritmos de aprendizaje no supervi
 
 📁 Pre-entrega4/
 │
-├── 📄 README.md                         ← Este archivo
-├── 📓 Pre-Entrega4_Equipo5.ipynb        ← Notebook con el desarrollo de clustering
-├── 📁 Dataset/                          ← Subcarpeta con datasets originales
-│   ├── serie-historica-de-produccion-de-gas-natural-por-cuenca-y-sub-tipo-de-recurso.csv
-│   └── produccion-de-pozos-de-gas-y-petroleo-no-convencional.csv
+├── 📄 README.md ← Este archivo
+├── 📓 Pre-Entrega4_Equipo5.ipynb ← Notebook con el desarrollo de clustering
+├── 📁 Dataset/ ← Subcarpeta con datasets originales
+│ ├── serie-historica-de-produccion-de-gas-natural-por-cuenca-y-sub-tipo-de-recurso.csv
+│ └── produccion-de-pozos-de-gas-y-petroleo-no-convencional.csv
 
 
 ---
