@@ -20,9 +20,9 @@ Esta etapa incluyó:
 
 👩‍💻 **Integrantes - Equipo 5**
 
-Fabiana Yamila Mansilla
+- Fabiana Yamila Mansilla
 
-Daniela Perea
+- Daniela Perea
 
 ---
 
