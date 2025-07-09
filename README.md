@@ -79,12 +79,11 @@ El repositorio está organizado en carpetas, cada una correspondiente a una etap
 
 📁 Pre-Entrega 2: En esta carpeta comienza el desarrollo del proyecto grupal. Se incluye la notebook con el proceso de limpieza de datos y el análisis exploratorio, que ya toma como base el problema específico de la producción de gas natural en Argentina. 
 
-📁 Pre-Entrega 3:
+📁 Pre-Entrega 3: En esta carpeta podran encontrar la notebook con el desarrollo y evaluación de distintos modelos de aprendizaje supervisado para estimar la producción futura de gas natural en Argentina, haciendo foco en el crecimiento de los recursos no convencionales (shale y tight). 
 
-📁 Pre-Entrega 4:
+📁 Pre-Entrega 4: En esta fase se aplicaron técnicas de aprendizaje no supervisado con el objetivo de identificar patrones ocultos y segmentar la producción de gas natural en Argentina. El desarrollo toma como base los análisis realizados en las etapas previas, enfocándose en la caracterización de regiones productoras y comportamientos diferenciados entre recursos convencionales y no convencionales (shale y tight). La notebook incluye la implementación de algoritmos como clustering y reducción de dimensionalidad, junto con su interpretación y visualización de resultados.
 
 📄 README.md: Este archivo contiene la documentación general del proyecto.
-
 ---
 
 **Metodología**
@@ -95,14 +94,26 @@ Los análisis se realizaron con agregación anual, lo que permitió visualizar m
    * En el Dataset 1, se examinó la evolución anual de la producción total de gas natural, desagregando por cuenca y tipo de recurso (convencional vs no convencional).
    *  En el Dataset 2, se analizaron las producciones de pozos no convencionales según sub tipo de recurso (shale, tight), tipo de pozo (Gasífero), tipo de estado y por cuenca.
    *  Se investigó especialmente el crecimiento de los recursos no convencionales dentro del total nacional.
+3. Modelado predictivo (aprendizaje supervisado): Con el objetivo de estimar la producción futura de gas natural, se desarrollaron y evaluaron distintos modelos de aprendizaje supervisado, utilizando variables temporales y técnicas.
+   *   Se implementaron modelos como Random Forest Regressor, Support Vector Regressor (SVR), XGBoost y Prophet.
+   *   Se aplicó validación cruzada y ajuste de hiperparámetros (GridSearchCV) para optimizar el rendimiento.
+   *   La evaluación se basó en métricas como RMSE, MAE y R², comparando predicciones a nivel agregado y por cuenca.
+4. Aprendizaje no supervisado: Para complementar el enfoque supervisado y descubrir patrones ocultos en los datos, se aplicaron técnicas de clustering y reducción de dimensionalidad.
+   *   Se utilizaron algoritmos como K-means y DBSCAN para segmentar los datos según comportamientos similares de producción.
+   *   Se aplicó PCA (Análisis de Componentes Principales) para visualizar relaciones multidimensionales de forma más interpretable.
+   *   Se analizaron los grupos identificados en función de variables como cuenca, tipo de recurso (convencional, shale, tight) y región geográfica.
+
+Este enfoque metodológico integral permitió abordar el problema desde múltiples dimensiones, integrando análisis descriptivo, modelado predictivo y segmentación exploratoria.
 
 
 ---
 
 **Herramientas utilizadas**
 
-* Python (v3.10)
-* Pandas, Numpy, Matplotlib, Seaborn (análisis y visualización)
-* Scipy: para análisis estadístico y funciones científicas complementarias.
+* Lenguaje: Python 3.10
+* Análisis y visualización: pandas, numpy, matplotlib, seaborn, plotly, scipy
+* Modelado predictivo: sklearn (train_test_split, RandomForestRegressor, SVR), XGBoost, Prophet, GridSearchCV
+* Modelo No Supervisado:  scikit-learn (KMeans, DBSCAN, PCA), yellowbrick (para visualización de clusters y elbow method)
+* Entorno: Google Colab, Jupyter Notebook, GitHub
    
 
