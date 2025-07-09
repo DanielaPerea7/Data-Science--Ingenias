@@ -24,9 +24,9 @@ Realizar un análisis exploratorio y desarrollar un modelo predictivo de la prod
 ---
 **Integrantes: Equipo 5**
 
-Mansilla, Fabiana Yamila
+- Mansilla, Fabiana Yamila
 
-Perea, Daniela
+- Perea, Daniela
 
 ---
 **Hipótesis de trabajo**
